@@ -1,0 +1,18 @@
+SERVICE_ID  SRV_TYPE_ID  SHIFT_MONTHS    NAME               SHORTNAME     DESCRIPTION,                                     DIMENSION, EXPENSE_TYPE, EXTRA, EXTERNAL_ID, INET_SRV, IP_BEGIN, IP_END, IP_BEGIN_BIN, IP_END_BIN, BUSINESS_TYPE, CALC_TYPE, USAGE
+
+     1 	        0             0     'Общий пакет'   	      'Общ.'						 , None, 'дн.', 0, 0, None, 0, None, None, None, None, 0, 0, -26)
+
+    12 		1 	      0	    'Подключение'  	     'Подкл.'						, None, None, 0, None, None, 0, None, None, None, None, 0, 0, 0)
+     
+    13 		1	      0 'Повторное подключение'      'Повт.п.'  					None, None, 0, None, None, 0, None, None, None, None, 0, 0, 0)
+   
+    14		1	      0 'Отключение по заявлению'    'Откл. по з'					, None, None, 0, None, None, 0, None, None, None, None, 0, 0, 0)
+
+    15		1	      0 'Отключение неуплата'	     'За неупл.'					, None, None, 0, None, None, 0, None, None, None, None, 0, 0, 0)
+
+(1345, 2, 0, 'Вторичное платное подключение', 'Пл.подкл.', None, 'руб.', 0, 0, None, 0, None, None, None, None, 0, 0, 0)
+(1133, 1, 0, 'Подключение бесплатное', 'Подкл.бесп', None, None, 0, 0, None, 0, None, None, None, None, 0, 0, 0)
+(1162, 2, 0, 'Допполнительные работы', 'Доп.раб.', None, 'руб.', 0, 0, None, 0, None, None, None, None, 0, 0, 0)
+(1347, 1, 0, 'Временное отключение', 'Врем.откл.', None, 'руб.', 0, 0, None, 0, None, None, None, None, 0, 0, 0)
+(1102, 1, 0, 'Переключение на общ.пакет', 'На общ.п.', None, None, 0, 0, None, 0, None, None, None, None, 0, 0, 0)
+(1104, 1, 0, 'Переключение на соц.пакет', 'На соц.п.', None, None, 0, 0, None, 0, None, None, None, None, 0, 0, 0)

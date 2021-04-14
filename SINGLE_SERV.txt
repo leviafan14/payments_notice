@@ -1,0 +1,6 @@
+SINGLE_SERVICE_ID   CUSTOMER_ID   SERVICE_ID          SERV_DATE                   UNITS         NOTICE  'HISTORY_ID', 'PAID', 'ADDED_BY', 'ADDED_ON', 'VATG_ID', 'RQ_ID']
+
+     1567              14	     15		datetime.date(2021, 4, 1)	 Decimal('1')     ''     , 1556, 	0, 'SYSDBA', datetime.datetime(2021, 3, 31, 10, 28, 48, 848000), None, None)
+
+(1569, 14, 13, datetime.date(2021, 4, 1), Decimal('1'), '', 1568, 0, 'SYSDBA', datetime.datetime(2021, 3, 31, 10, 30, 2, 175000), None, None)
+(1570, 14, 15, datetime.date(2021, 4, 2), Decimal('1'), '', 1556, 0, 'SYSDBA', datetime.datetime(2021, 3, 31, 10, 31, 56, 30000), None, None)

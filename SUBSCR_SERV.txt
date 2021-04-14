@@ -1,0 +1,7 @@
+SUBSCR_SERV_ID 	 CUSTOMER_ID   SERV_ID 	 STATE_SGN      STATE_DATE 		STATE_SRV  NOTICE    STATE_CHANGE_BY   
+
+1461 		    151		 13	    1	    datetime.date(2021, 3, 29)	    15 	     ''	         SYSDBA 
+
+1464		    138           1 	    1	    datetime.date(2021, 3, 30)	    13	     ''		 SYSDBA	
+
+1556		    14		  1	    1	    datetime.date(2021, 3, 27)	    12	     ''		 SYSDBA
